@@ -9,8 +9,8 @@
 Все объявления и оповещения по курсу публикаются в телеграмм-канале: https://t.me/joinchat/AAAAAEbrvkgUhTmvuiOL1Q
 
 ## Zoom
- Meeting ID: 385 214 6158 
-Passcode: смотрите Notifications channel
+- Meeting ID: 385 214 6158 
+- Passcode: смотрите Notifications channel
 
 ## Homeworks
 - 2 практических домашних задания
