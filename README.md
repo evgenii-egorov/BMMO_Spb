@@ -31,7 +31,7 @@ Passcode: GoodDay
 
 ## Материалы по курсу 
 - Официальный [конспект лекций](https://drive.google.com/file/d/1KHB2lXKg7pOXRaYzbu7tMyV5Nmz84jHZ/view?usp=sharing) в процессе (пока сделано до 3 лекции включительно, будет пополняться)
-- (Видео записи лекций)[https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw]
+- [Видео записи лекций](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw)
 
 ### Полезные ссылки
 [Сайт одноименного курса](http://www.machinelearning.ru/wiki/index.php?title=Bmmo), читаемого на ВМК МГУ. 
