@@ -2,7 +2,8 @@
 Лектор _[Dmitriy Vetrov](https://www.hse.ru/staff/dvetrov)_
 
 Семинаристы: [Evgenii Egorov](https://scholar.google.ru/citations?user=LwVVunEAAAAJ), [Denis Rakitin](https://www.hse.ru/org/persons/190910999)
-По вопросам, пишите: [Evgenii Egorov](maito:egorov.evgenyy@ya.ru), [Denis Rakitin](mailto:rakitindenis32@gmail.com) Add [Spb BMMO] to the topic.
+
+По вопросам, пишите: [Evgenii Egorov](maito:egorov.evgenyy@ya.ru), [Denis Rakitin](mailto:rakitindenis32@gmail.com) В теме письма: [Spb BMMO].
 
 ## Notifications channel
 Все объявления и оповещения по курсу публикаются в телеграмм-канале: https://t.me/joinchat/AAAAAEbrvkgUhTmvuiOL1Q
@@ -29,11 +30,11 @@ Passcode: GoodDay
 | 8 Окт |  Задача выбора модели по Байесу, принцип наибольшей обоснованности, примеры выбора вероятностной модели                                                                       |                  |                    |                          |
 
 
-## Материалы по курсу 
+## Materials  
 - Официальный [конспект лекций](https://drive.google.com/file/d/1KHB2lXKg7pOXRaYzbu7tMyV5Nmz84jHZ/view?usp=sharing) в процессе (пока сделано до 3 лекции включительно, будет пополняться)
 - [Видео записи лекций](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw)
 
-### Полезные ссылки
+### Links 
 - [Сайт одноименного курса](http://www.machinelearning.ru/wiki/index.php?title=Bmmo), читаемого на ВМК МГУ. 
 - [Сайт группы Байесовских методов](http://bayesgroup.ru/).
 - Простые и удобные [заметки](http://cs.nyu.edu/~roweis/notes.html) по матричным вычислениям и свойствам гауссовских распределений. 
