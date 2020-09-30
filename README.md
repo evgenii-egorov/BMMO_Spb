@@ -3,7 +3,7 @@
 
 Семинаристы: [Evgenii Egorov](https://scholar.google.ru/citations?user=LwVVunEAAAAJ), [Denis Rakitin](https://www.hse.ru/org/persons/190910999)
 
-По вопросам, пишите: [Evgenii Egorov](maito:egorov.evgenyy@ya.ru), [Denis Rakitin](mailto:rakitindenis32@gmail.com) В теме письма: [Spb BMMO].
+По вопросам, пишите: [Evgenii Egorov](maito:egorov.evgenyy@ya.ru), [Denis Rakitin](mailto:rakitindenis32@gmail.com), тема письма: [Spb BMMO].
 
 ## Notifications channel
 Все объявления и оповещения по курсу публикаются в телеграмм-канале: https://t.me/joinchat/AAAAAEbrvkgUhTmvuiOL1Q
