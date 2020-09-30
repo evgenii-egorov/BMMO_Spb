@@ -9,9 +9,8 @@
 Все объявления и оповещения по курсу публикаются в телеграмм-канале: https://t.me/joinchat/AAAAAEbrvkgUhTmvuiOL1Q
 
 ## Zoom
-Join Zoom Meeting https://skoltech-ru.zoom.us/j/3852146158?pwd=QzFVZ2VjY2N5eW5JWVNtNis2Qm9VZz09  
-Meeting ID: 385 214 6158 
-Passcode: GoodDay 
+ Meeting ID: 385 214 6158 
+Passcode: смотрите Notifications channel
 
 ## Homeworks
 - 2 практических домашних задания
