@@ -34,7 +34,7 @@ Passcode: GoodDay
 - [Видео записи лекций](https://www.youtube.com/playlist?list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw)
 
 ### Полезные ссылки
-[Сайт одноименного курса](http://www.machinelearning.ru/wiki/index.php?title=Bmmo), читаемого на ВМК МГУ. 
-[Сайт группы Байесовских методов](http://bayesgroup.ru/).
-Простые и удобные [заметки](http://cs.nyu.edu/~roweis/notes.html) по матричным вычислениям и свойствам гауссовских распределений. 
-[Памятка](http://statistics.zone/) по теории вероятностей.
+- [Сайт одноименного курса](http://www.machinelearning.ru/wiki/index.php?title=Bmmo), читаемого на ВМК МГУ. 
+- [Сайт группы Байесовских методов](http://bayesgroup.ru/).
+- Простые и удобные [заметки](http://cs.nyu.edu/~roweis/notes.html) по матричным вычислениям и свойствам гауссовских распределений. 
+- [Памятка](http://statistics.zone/) по теории вероятностей.
